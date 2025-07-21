@@ -1,7 +1,7 @@
 <h2><a href="https://github.com/journey-ad"></a>🌱 I'm Feng</h2>
 
 <!--<p>
-  [<img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">](https://count.getloli.com/@Feng?name=Feng&theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+ <img src="https://count.getloli.com/@Feng" alt="Feng" />
 </p>-->
 
 #### Platform & Tools
