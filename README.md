@@ -1,4 +1,4 @@
-<h2><a href="https://github.com/journey-ad"></a>🌱 I'm Feng</h2>
+<h2><a href="https://github.com/journey-ad"></a>🌱 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Feng)](https://git.io/typing-svg)</h2>
 
 
 
