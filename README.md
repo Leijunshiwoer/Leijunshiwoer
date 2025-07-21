@@ -5,7 +5,7 @@
 </p>-->
 
 #### Platform & Tools
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
+[<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>](https://count.getloli.com/@Feng?name=Feng&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/en-us/121553)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
