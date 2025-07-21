@@ -3,7 +3,7 @@
 
 
 #### Platform & Tools
-<a href="https://count.getloli.com/@Feng?name=Feng&theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" height="200" align="right" ></a>
+<img href="https://count.getloli.com/@Feng?name=Feng&theme=booru-helltaker&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" height="200" align="right" />
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/en-us/121553)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
