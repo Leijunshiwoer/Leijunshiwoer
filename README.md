@@ -1,7 +1,7 @@
 <h2><a href="https://github.com/journey-ad"></a>🌱 I'm Feng</h2>
 
 <!--<p>
- <img src="https://count.getloli.com/@Feng" alt="Feng" />
+
 </p>-->
 
 #### Platform & Tools
