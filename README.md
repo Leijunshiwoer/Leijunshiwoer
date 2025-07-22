@@ -37,5 +37,6 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 #### Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,java,python,C++)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Leijunshiwoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leijunshiwoer)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,java,python,c++)](https://github.com/anuraghazra/github-readme-stats)
