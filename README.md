@@ -37,10 +37,5 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 #### Status
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Leijunshiwoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leijunshiwoer)](https://github.com/anuraghazra/github-readme-stats)
 
