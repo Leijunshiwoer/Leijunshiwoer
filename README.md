@@ -42,5 +42,8 @@
 
 #### 连续贡献统计
 [![PUSDN](https://streak-stats.demolab.com?user=Leijunshiwoer&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://soft.pusdn.com)
-![](https://raw.githubusercontent.com/Leijunshiwoer/Leijunshiwoer/main/assets/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leijunshiwoer/Leijunshiwoer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leijunshiwoer/Leijunshiwoer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leijunshiwoer/Leijunshiwoer/output/github-contribution-grid-snake.svg">
+</picture>
