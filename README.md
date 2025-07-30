@@ -41,4 +41,5 @@
 [![Leijunshiwoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leijunshiwoer)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 连续贡献统计
-[![PUSDN](https://streak-stats.demolab.com?user=Leijunshiwoer&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://soft.pusdn.com)
+[![PUSDN](https://streak-stats.demolab.com?user=Leijunshiwoer&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j)]
+
