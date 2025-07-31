@@ -41,6 +41,6 @@
 [![Leijunshiwoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leijunshiwoer)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 连续贡献统计
-https://github-readme-activity-graph.vercel.app/graph?username=Leijunshiwoer&theme=react-dark
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leijunshiwoer&theme=react-dark">
 
 
