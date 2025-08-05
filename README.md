@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-#### Status
+#### 状态
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Leijunshiwoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leijunshiwoer)](https://github.com/anuraghazra/github-readme-stats)
 
